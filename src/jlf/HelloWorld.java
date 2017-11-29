@@ -21,7 +21,7 @@ public class HelloWorld {
         int b2=9;
         int c2;
         c2=a2+b2;
-
+        c2=90;
         System.out.printf("test\n");
     }
 }
